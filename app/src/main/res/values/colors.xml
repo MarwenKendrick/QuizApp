@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lightGray">#ced4da</color>
+    <color name="white">#e9ecef</color>
+    <color name="mint">#13C4A3</color>
+    <color name="tael">#0E7C7B</color>
+    <color name="aquamarine">#36F1CD</color>
+    <color name="coolGray">#888DA7</color>
+    <color name="yinmnBlue">#4C6085</color>
+    <color name="celestialBlue">#4C6085</color>
+    <color name="rustyRed">#D62246</color>
+    <color name="violetJTC">#4B1D3F</color>
+    <color name="darkText">#212529</color>
+    <color name="black">#FF000000</color>
+    <color name="blackOlive">#32322C </color>
+    <color name="violet">#000B65</color>
+</resources>
